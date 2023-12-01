@@ -1,4 +1,4 @@
-# FocusFlow - Productivity Companion
+# FocusFlow - Boost Your Productivity 
 
 
 ## Overview
@@ -13,11 +13,9 @@ Pomodoro Timer: Incorporate the Pomodoro Technique into your workflow. Break you
 
 ## Usage
 
-1.Add tasks to the Todo List.
+1. Add tasks to the Todo List.
 
-2.Set up the Pomodoro Timer for focused work intervals.
-
-3.Track your tasks and analyze productivity with built-in features.
+2. Set up the Pomodoro Timer for focused work intervals.
 
 ## Visit the live site:
 https://focusflow.000webhostapp.com/
